@@ -20,7 +20,7 @@ We've designed and run mission-critical, high performance and secure cloud infra
 
 We have the expertise, practical experience and ability to address this problem. No one else is doing this in a community-driven manner or offering solutions to these problems without commercial strings attached.
 
-## How We Do It
+## How We'll Do It
 
 The first phase of developing our initiative will have three distinct pillars of work:
 
@@ -44,7 +44,7 @@ Initially, our focus will be on building solutions for AWS and implementing thos
 
 At later stages, we will branch out into other public cloud providers such as Azure, GCE, GKE and possibly others.
 
-## Initial Solutions
+## Initial Development Work
 
 Within the architecture and development work pillars, the first phase should focus on building a secure and reliable foundation on whcih to build additional infrastructure.
 
