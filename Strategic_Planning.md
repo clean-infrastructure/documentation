@@ -1,16 +1,16 @@
 ##  What We Believe
 
-1. Public cloud IaaS and PaaS represent the future of infrastructure ... and the present.
+1. Public cloud providers represent the present and future of infrastructure design.
 
-2. The ability to build and deploy stable, secure and resilient infrastructure is critical to innovation.
+2. The ability to build and deploy stable, secure and resilient cloud infrastructure is critical to innovation.
 
-3. Stable, secure and resilient infrastructure is impossible without robust automation.
+3. Stable, secure and resilient cloud infrastructure is impossible without robust automation.
 
 4. Most infrastructure problems that exist today are common across all organizations implementing cloud infrastructure.
 
 5. These problems can and should be solved once, the right way, and reused by many.
 
-6. Every organization should have access to world-class infrastructure code regardless of their size or expertise.
+6. Every organization should have access to world-class infrastructure code irrespective of their size or expertise.
 
 ## Why Us
 
