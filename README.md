@@ -4,12 +4,11 @@ The Clean Infrastructure Project is an open-source initiative with a single unde
 
 ## What Is Clean Infrastructure
 
-We believe a clean infrastructure design is one that follows these design principles:
+We believe a clean infrastructure design is one that:
 
 - Is based on comprehensive architecture diagrams and well documented best-practice principles.
-- Is deployed in a completely automated fashion using declarative infrastructure code.
--  Infrastructure code is comprehensively tested with automated unit and acceptance tests.
--  Composed of loosely coupled services with explicitly declared and isolated dependencies.
+- Is deployed in a completely automated fashion using declarative infrastructure code with comprehensive and automated tests.
+-  Is composed of loosely coupled services with explicitly declared and isolated dependencies.
 - Relies on disposable resources instead of fixed servers and embraces the principles of elasticity and scalability.
 - Adheres to the least-privilege security model.
 
