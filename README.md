@@ -1,32 +1,28 @@
 # Clean Infrastructure Project
 
-The goal of the Clean Infrastructure Project is simple. Help everyone **build better infrastructure**.
+The Clean Infrastructure Project is an open-source initiative with a single underlying purpose. Empower everyone to **build better infrastructure** by producing and freely distributing world-class infrastructure code.
 
-The Clean Infrastructure Project will serve as a clearinghouse for world-class reusable infrastructure code, backed by well documented best-practices and robust architecture diagrams, that makes it quick and easy for **everyone** to deploy truly secure, scalable and resilient cloud infrastructure.
+## What Is Clean Infrastructure
 
-## Principles
+We believe a clean infrastructure design is one that follows these design principles:
 
-This project starts with the premise that infrastructure code should be given the same care and attention as any other software development discipline.
+- Is based on comprehensive architecture diagrams and well documented best-practice principles.
+- Is deployed in a completely automated fashion using declarative infrastructure code.
+-  Infrastructure code is comprehensively tested with automated unit and acceptance tests.
+-  Composed of loosely coupled services with explicitly declared and isolated dependencies.
+- Relies on disposable resources instead of fixed servers and embraces the principles of elasticity and scalability.
+- Adheres to the least-privilege security model.
 
-Clean code matters. Every infrastructure module we develop adheres to the following principles:
+## What We Provide
 
-- **If it isn't documented, it doesn't exist.**
+The project aims to serve as a clearinghouse for infrastructure expertise and freely distributed infrastructure code that allows **everyone** to build and deploy secure, scalable and resilient cloud infrastructures.
 
-  Design comes before coding. Every module and every decision made is backed by well documented best-practice principles and robust, easy to understand architecture diagrams.
+With that goal in mind, we provide:
 
-- **Code quality counts.**
-
-  Reading our modules should be a pleasant experience. Code is well organized, narrowly focused, cleanly separated and thoroughly commented.
-
-- **Everything is tested.**
-
-  Every module is backed by a suite of comprehensive and automated unit and acceptance tests. This means we can validate that our code complies with the requirements. We can maintain and extend it without worrying that it will stop working.
-
-- **Customizable and Configurable.**
-
-  Our modules have thoroughly documented input variables that allow you to easily customize and configure their behavior.
-
-  Every module includes robust outputs giving you a highly composable system of modules that can be glued together to build comprehensive infrastructures.
+- World-class, reusable infrastructure modules that address all of your most common infrastructure problems.
+- All modules are fully tested with comprehensive, automated unit and acceptance tests.
+- All modules are backed by well documented best-practices and comprehensive architecture diagrams so you can understand why every design decision was made.
+- All infrastructure code is based on architecture patterns and module designs proven in production at some of the worlds largest technology organizations.
 
 ## Who Are We
 
